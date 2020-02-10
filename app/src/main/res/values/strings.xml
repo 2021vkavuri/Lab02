@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab02 texts</string>
+    <string-array name="my_strings">
+        <item>Never</item>
+        <item>Gonna</item>
+        <item>Give</item>
+        <item>You</item>
+        <item>Up</item>
+        <item>Never</item>
+        <item>Gonna</item>
+        <item>Let</item>
+        <item>You</item>
+        <item>Down</item>
+    </string-array>
+</resources>
